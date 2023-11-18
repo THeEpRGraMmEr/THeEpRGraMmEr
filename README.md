@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @THeEpRGraMmEr
+- 👋 Hi, I’m Jatin
 - 👀 I’m 17
 - 🌱 I’m currently learning Python programming
 - 💞️ I’m looking for some friends and mentors who can help me in my journey 
